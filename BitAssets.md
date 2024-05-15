@@ -36,7 +36,7 @@
 - help
 
 ## General Notes
-- Notes about the general behavior and specific observations.
+- Format deposit address is returning a formatted address for slot 2 and it should be for slot 4
 
 ### Testing and Edge Cases
 
