@@ -35,6 +35,7 @@
 - GUI should display error messages, not just the console. For already registered names and double spent utxos
 - Could there be a way to make the mining more efficient in a testing environment? (Manually set the hash target?)
 - Clarification for address formatting. Probably should be taken care of under the hood
+- Stop is not stopping the node
 
 ### balance
 - Verify initial balance is zero.
